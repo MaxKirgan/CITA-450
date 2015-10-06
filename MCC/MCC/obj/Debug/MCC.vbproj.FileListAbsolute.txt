@@ -2,3 +2,4 @@ c:\users\brad\documents\visual studio 2013\Projects\MCC\MCC\bin\Debug\MCC.exe.co
 c:\users\brad\documents\visual studio 2013\Projects\MCC\MCC\obj\Debug\MCC.frmLogin.resources
 c:\users\brad\documents\visual studio 2013\Projects\MCC\MCC\obj\Debug\MCC.Resources.resources
 c:\users\brad\documents\visual studio 2013\Projects\MCC\MCC\obj\Debug\MCC.vbproj.GenerateResource.Cache
+C:\Users\Brad\Documents\CITA-450\MCC\MCC\bin\Debug\MCC.exe.config
